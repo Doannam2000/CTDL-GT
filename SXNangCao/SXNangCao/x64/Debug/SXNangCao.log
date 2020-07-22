@@ -1,0 +1,4 @@
+﻿QuickSort.obj : error LNK2005: "void __cdecl NhapDanhSach(int * const,int)" (?NhapDanhSach@@YAXQEAHH@Z) already defined in HeapSort.obj
+QuickSort.obj : error LNK2005: "void __cdecl Xuat(int * const,int)" (?Xuat@@YAXQEAHH@Z) already defined in HeapSort.obj
+QuickSort.obj : error LNK2005: main already defined in HeapSort.obj
+F:\Code\C++\Hoc Online\CTDL\SXNangCao\x64\Debug\SXNangCao.exe : fatal error LNK1169: one or more multiply defined symbols found

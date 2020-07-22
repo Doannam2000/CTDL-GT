@@ -1,0 +1,7 @@
+Câu 3 (3 điểm)
+Cho một danh sách lưu trữ kế tiếp chứa thông tin về các cuốn sách, mỗi cuốn sách gồm: mã sách, tên sách, tên tác giả, năm xuất bản.
+Yêu cầu:
+a.	Vẽ hình mô tả cấu trúc dữ liệu của danh sách nếu danh sách chứa 5 cuốn sách.
+b.	Khai báo cấu trúc dữ liệu của danh sách.
+c.	Mô tả bằng hình vẽ thao tác chèn một cuốn sách mới vào vị trí thứ 3 trong danh sách gồm 5 cuốn sách.
+d.	Viết giải thuật thực hiện thao tác chèn cuốn sách mới vào vị trí thứ 3 trong danh sách nếu danh sách có n cuốn sách (n > 3).

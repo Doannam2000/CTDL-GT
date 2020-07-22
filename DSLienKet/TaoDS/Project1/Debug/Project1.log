@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Code\DSLienKet\TaoDS\Project1\Source.cpp(10,5): error C3861: 'gets': identifier not found
+D:\Code\DSLienKet\TaoDS\Project1\Source.cpp(14,19): warning C4018: '<': signed/unsigned mismatch
+D:\Code\DSLienKet\TaoDS\Project1\Source.cpp(26,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+D:\Code\DSLienKet\TaoDS\Project1\Source.cpp(29,1): error C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(574): message : see declaration of 'strrev'

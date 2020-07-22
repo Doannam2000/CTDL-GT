@@ -1,0 +1,7 @@
+Câu 1 (3 điểm)
+Cho một danh sách móc nối đơn chứa thông tin về các học phần gồm các thông tin: Mã học phần, tên học phần, số tín chỉ.
+Yêu cầu:
+a.	Vẽ hình mô tả cấu trúc dữ liệu của danh sách nếu danh sách chứa 5 học phần.
+b.	Khai báo cấu trúc dữ liệu của danh sách.
+c.	Vẽ hình mô tả thao tác chèn học phần mới vào vị trí thứ 3 trong danh sách gồm 5 học phần.
+d.	Viết giải thuật thực hiện thao tác chèn học phần mới vào vị trí thứ 3 trong danh sách nếu danh sách có n học phần (n > 3).

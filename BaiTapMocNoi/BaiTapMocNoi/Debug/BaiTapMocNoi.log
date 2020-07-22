@@ -1,0 +1,3 @@
+﻿  code.cpp
+F:\Code\C++\Hoc Online\CTDL\BaiTapMocNoi\BaiTapMocNoi\code.cpp(41): warning C4715: 'KhoiTaoNode': not all control paths return a value
+  BaiTapMocNoi.vcxproj -> F:\Code\C++\Hoc Online\CTDL\BaiTapMocNoi\Debug\BaiTapMocNoi.exe

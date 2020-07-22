@@ -1,0 +1,7 @@
+Câu 2 (3 điểm)
+Cho một danh sách móc nối đơn chứa thông tin về các thí sinh, mỗi thí sinh gồm các thông tin: số báo danh, họ và tên, năm sinh, khối thi.
+Yêu cầu:
+a.	Vẽ hình mô tả cấu trúc dữ liệu của danh sách nếu danh sách có 5 thí sinh.
+b.	Khai báo cấu trúc dữ liệu của danh sách.
+c.	Mô tả bằng hình vẽ thao tác xóa thí sinh ở vị trí thứ 3 trong danh sách gồm 5 thí sinh.
+d.	Viết giải thuật thực hiện thao tác xóa thí sinh ở vị trí thứ 3 trong danh sách nếu danh sách có n thí sinh (n > 3).

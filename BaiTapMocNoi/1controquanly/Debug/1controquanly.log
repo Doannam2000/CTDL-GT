@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Code\BaiTapMocNoi\1controquanly\Source.cpp(9,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+D:\Code\BaiTapMocNoi\1controquanly\Source.cpp(13,2): warning C4091: 'typedef ': ignored on left of 'List' when no variable is declared
+  1controquanly.vcxproj -> D:\Code\BaiTapMocNoi\Debug\1controquanly.exe
